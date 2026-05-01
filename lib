@@ -10,15 +10,3 @@ F40-APP/
  │    ├── notificacoes_page.dart
  │    └── dashboard_page.dart
  └── README.md
-├── lib/
-│    ├── main.dart                # Menu principal
-│    ├── agendamento_page.dart    # Agendamento de serviços
-│    ├── status_carro_page.dart   # Status do carro
-│    ├── chat_page.dart           # Chat com F40
-│    ├── historico_page.dart      # Histórico de serviços
-│    ├── perfil_page.dart         # Perfil do cliente
-│    ├── veiculos_page.dart       # Cadastro de veículos
-│    ├── notificacoes_page.dart   # Notificações
-│    └── dashboard_page.dart      # Painel administrativo
-├── pubspec.yaml
-└── README.md
