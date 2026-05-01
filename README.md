@@ -1,2 +1,2 @@
 # F40-APP
-App mvp para meus clientes, público 
+App mvp para meus clientes 
