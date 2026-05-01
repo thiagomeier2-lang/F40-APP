@@ -1,1 +1,9 @@
 main.dart
+agendamento_page.dart
+status_carro_page.dart
+chat_page.dart
+historico_page.dart
+perfil_page.dart
+veiculos_page.dart
+notificacoes_page.dart
+dashboard_page.dart
